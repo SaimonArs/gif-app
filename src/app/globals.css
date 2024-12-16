@@ -100,7 +100,7 @@ body {
     background: #FAFBFC;
     border: 0.5px solid #D3D9DE;
     border-radius: 6px;
-    padding: 0px 13px 0px 13px;
+    padding: 6px 12px;
     display: grid;
     max-width: 352px;
     width: max-content;
